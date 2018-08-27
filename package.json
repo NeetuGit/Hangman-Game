@@ -1,0 +1,14 @@
+{
+  "name": "my-first-angular-app",
+  "version": "1.0.0",
+  "description": "angular app created in an hour",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neetu",
+  "license": "ISC",
+  "dependencies": {
+    "random-words": "^1.1.0"
+  }
+}
